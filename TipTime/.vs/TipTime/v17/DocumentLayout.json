@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D29F91E0-493F-465C-BE5B-0D79ECC0BC62}|TipTime\\TipTime.csproj|d:\\etec\\mat\u00E9rias\\2\u00BA ano\\pam\\mytiptime\\tiptime\\tiptime\\calculatetip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29F91E0-493F-465C-BE5B-0D79ECC0BC62}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\calculatetip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29F91E0-493F-465C-BE5B-0D79ECC0BC62}|TipTime\\TipTime.csproj|d:\\etec\\mat\u00E9rias\\2\u00BA ano\\pam\\mytiptime\\tiptime\\tiptime\\calculatetip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D29F91E0-493F-465C-BE5B-0D79ECC0BC62}|TipTime\\TipTime.csproj|solutionrelative:tiptime\\calculatetip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "TipTime\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:22:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateTip.xaml.cs",
+              "DocumentMoniker": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\CalculateTip.xaml.cs",
+              "RelativeDocumentMoniker": "TipTime\\CalculateTip.xaml.cs",
+              "ToolTip": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\CalculateTip.xaml.cs",
+              "RelativeToolTip": "TipTime\\CalculateTip.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:56:11.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateTip.xaml",
+              "DocumentMoniker": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\CalculateTip.xaml",
+              "RelativeDocumentMoniker": "TipTime\\CalculateTip.xaml",
+              "ToolTip": "D:\\Etec\\Mat\u00E9rias\\2\u00BA ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\CalculateTip.xaml",
+              "RelativeToolTip": "TipTime\\CalculateTip.xaml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T23:02:02.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
