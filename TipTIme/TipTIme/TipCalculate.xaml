@@ -4,18 +4,67 @@
              x:Class="TipTIme.TipCalculate"
              Title="TipCalculate">
     <VerticalStackLayout>
+
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Bill"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-        <Label
-            Text="Gorjeta: "
-            VerticalOptions="Start"
-            HorizontalOptions="Start"/>
 
-        <Entry
-            x:Name="Entry"
-            Placeholder="Digite o valor"
-            SemanticProperties.Hint="Digite o valor"/>
+        <Entry 
+            x:Name="ValueEntry"
+            Placeholder="Digite aqui o valor da refeição: "/>
+
+        <Label
+            Text="Gorjeta"/>
+
+        <Label
+            Text="R$ 0.00"/>
+
+        <Label
+            x:Name="TotalLabel"
+            Text="Total: "/>
+
+        <Label
+            x:Name="TipLabel"
+            Text="R$ 0.00"/>
+
+        <Label
+            Text="Porcentagem da gorjeta"/>
+        
+        <Label 
+            x:Name="PercentageLabel"
+            Text="0%"/>
+
+        <Slider
+            x:Name="TipPercentageSlider"
+            Minimum="0"
+            Maximum="100"
+            Value="15"
+            ValueChanged="TipPercentageSlider_ValueChanged"/>
+
+        <Button 
+            x:Name="Button15Percentage"
+            Text="15%"
+            Clicked="Button15Percentage_Clicked"
+            HorizontalOptions="Fill"/>
+        
+         <Button 
+            x:Name="Button20Percentage"
+            Text="20%"
+            Clicked="Button20Percentage_Clicked"
+            HorizontalOptions="Fill"/>
+        
+         <Button 
+            x:Name="RoundDownButton"
+             Clicked="RoundDownButton_Clicked"
+            Text="Round Down"
+            HorizontalOptions="Fill"/>
+
+        <Button 
+            x:Name="RoundUpButton"
+            Clicked="RoundUpButton_Clicked"
+            Text="Round Up"
+            HorizontalOptions="Fill"/>
+
     </VerticalStackLayout>
 </ContentPage>
