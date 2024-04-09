@@ -18,14 +18,14 @@
             Text="Gorjeta"/>
 
         <Label
+            x:Name="TipLabel"
             Text="R$ 0.00"/>
 
         <Label
-            x:Name="TotalLabel"
             Text="Total: "/>
 
         <Label
-            x:Name="TipLabel"
+            x:Name="TotalLabel"
             Text="R$ 0.00"/>
 
         <Label
