@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Etec\\Matérias\\2º ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\TipTime.csproj": {}
+    "D:\\Etec\\Matérias\\2º ANO\\TipTime\\MyTipTime\\TipTime\\TipTime.csproj": {}
   },
   "projects": {
-    "D:\\Etec\\Matérias\\2º ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\TipTime.csproj": {
+    "D:\\Etec\\Matérias\\2º ANO\\TipTime\\MyTipTime\\TipTime\\TipTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Etec\\Matérias\\2º ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\TipTime.csproj",
+        "projectUniqueName": "D:\\Etec\\Matérias\\2º ANO\\TipTime\\MyTipTime\\TipTime\\TipTime.csproj",
         "projectName": "TipTime",
-        "projectPath": "D:\\Etec\\Matérias\\2º ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\TipTime.csproj",
+        "projectPath": "D:\\Etec\\Matérias\\2º ANO\\TipTime\\MyTipTime\\TipTime\\TipTime.csproj",
         "packagesPath": "C:\\Users\\Raphael\\.nuget\\packages\\",
-        "outputPath": "D:\\Etec\\Matérias\\2º ANO\\PAM\\MyTipTime\\TipTime\\TipTime\\obj\\",
+        "outputPath": "D:\\Etec\\Matérias\\2º ANO\\TipTime\\MyTipTime\\TipTime\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
